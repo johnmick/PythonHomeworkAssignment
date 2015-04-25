@@ -20,7 +20,7 @@ A sorted summary of the **number of unique visitors and operators** along with t
 ----------
 
 ####Usage Example:
-Computing  "**input_data/big_input"** site data into summaries and validate output using **"output_data/big_output"** as comparison:
+Process "**input_data/big_input"** site data into summaries and validate output using **"output_data/big_output"** as comparison:
 
 *Instructions relative to root directory of repository, assuming data files are available at given paths.*
 
