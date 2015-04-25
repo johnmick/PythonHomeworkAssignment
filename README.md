@@ -122,7 +122,7 @@ In the event of subsequent starts, from either an abnormal shutdown or successfu
 
  The homework assignment was a perfect excuse to try a pipeline approach out.  The pipeline approach provides a flexible approach towards manipulating the data while coming at the cost of some additional processing time.  
 
- Continued efforts would look towards optimizing this model and distributing it between machines.  
+ Continued efforts would look towards optimizing this model and distributing it between machines using configurable protocols for transport.  
  
  This was a really fun assignment with a nice set of it items on the table for consideration!  
  
