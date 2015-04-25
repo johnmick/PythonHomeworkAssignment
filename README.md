@@ -62,7 +62,7 @@ Computing  "**input_data/big_input"** site data into summaries and validate outp
 
  **Problem domain:**  *The idea of reading input streams over various protocols, decoding formats, and processing data to support customer informational awareness is a really fun issue to consider as the solutions find endless domains of data to explore.*
  
- **Self-reflection on development path ** 
+ ***Self-reflection on development path***
  
  **Requirements:**
  The process begins by understanding both the exact customer requirements as well as the theme of the [assignment ](https://gist.github.com/jzellner/856fd143323f3cba4773).  Repeated readings and brief sketches and outlines of your own aide in reducing the risk of not capturing the requirements in full.  While capturing requirements, developers establish a shared understanding of expectations (which developers plan for exceeding) and requirements.
