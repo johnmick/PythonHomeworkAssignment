@@ -28,14 +28,14 @@ Process "**input_data/big_input"** site data into summaries and validate output 
  
      python single_threaded_approach/main.py      \
               -f input_data/big_input             \
-            > output_data/big_output;             \
+            > output_data/my_big_output;          \
      python test_scripts/validate.py
  
 **Extendable pipeline approach implementation (experimental):**
  
      python pipeline_approach/main.py             \
               -f input_data/big_input             \
-            > output_data/big_output;             \
+            > output_data/my_big_output;          \
      python test_scripts/validate.py
  
 *Note: Pipeline implementation currently provides no fault recovery.*
