@@ -113,9 +113,9 @@ To test software robustness a stress script is developed which initializes the s
  
  The Pipelining chain was something I previously explored and was familiar with putting together.
 
- The homework assignment was a perfect excuse to try a pipeline approach out.  The pipeline approach provides a flexible approach towards manipulating the data while coming at the cost of some additional processing time.  
+ The homework assignment was a perfect excuse to try a pipeline approach out.  The currently implemented pipeline provides a reconfigurable means of reading, manipulating, and forwarding data with some cost in processing time.  
 
- Continued efforts would look towards optimizing this model and distributing it between machines using configurable protocols for transport.  By providing distribution methods, scaling designs could be tested.
+ Continued efforts would look towards optimizing pipeline performance and distributing components between machines using configurable protocols for transport.  By providing configurable distribution methods, designing pipelines which scale with built-in redundancies could be further explored.
  
  This was a really fun assignment with a nice set of it items on the table for consideration!  
  
